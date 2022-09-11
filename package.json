@@ -21,9 +21,9 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "UmutBayraktar",
+    "author": "Krossz",
     "license": "ISC",
     "engines": {
-        "node": "17.x"
+        "node": "16.x"
     }
 }
